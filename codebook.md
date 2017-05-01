@@ -1,11 +1,11 @@
 The codebook explains the data fields in "tidy_dataset.txt" file.
 
-## Identifiers
+# Identifiers
 
 - `subject` - The ID of the test subject
 - `activity` - The type of activity performed when the corresponding measurements were taken
 
-## Measurements
+# Measurements
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
@@ -87,7 +87,7 @@ The codebook explains the data fields in "tidy_dataset.txt" file.
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-## Activity Labels
+# Activity Labels
 
 * `WALKING` (value `1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
